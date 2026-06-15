@@ -128,7 +128,7 @@ The following regression models were trained and evaluated:
 The project includes an interactive dashboard for comparing model performance across multiple evaluation metrics.
 
 <p align="center">
-  <img src="images/dashboard_comparison.png" width="900">
+  <img src="dashboard_ModelComparison.png" width="900">
 </p>
 
 ---
@@ -241,7 +241,7 @@ http://127.0.0.1:5000
 **Oumayma Iddouche**  
 Data Science & AI Engineering Student — ENSIASD
 
-[GitHub](https://github.com/OumaymaIddouche) • [LinkedIn](https://linkedin.com)
+[GitHub](https://github.com/OumaymaIddouche) • [LinkedIn](https://www.linkedin.com/in/oumayma-iddouche-009466225/)
 
 ---
 
