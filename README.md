@@ -128,7 +128,7 @@ The following regression models were trained and evaluated:
 The project includes an interactive dashboard for comparing model performance across multiple evaluation metrics.
 
 <p align="center">
-  <img src="screenshots/dashboard.png" width="900">
+  <img src="images/dashboard_comparison.png" width="900">
 </p>
 
 ---
